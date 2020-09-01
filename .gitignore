@@ -1,0 +1,9 @@
+Project/.vscode
+Project/.gdbinit
+
+Project/esp-idf
+Project/build
+Project/GPATH
+Project/GRTAGS
+Project/GTAGS
+Project/sdkconfig*
